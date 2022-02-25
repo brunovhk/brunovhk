@@ -8,7 +8,7 @@
 
 Meu nome é Bruno Henrique. <br>
 🎓 Cursando Analise e Desenvolvimento de Sistemas na Anhanguera <br>
-🌱 Estudando atualmente linguagem Python <br>
+🌱 Estudando atualmente linguagem Python para Desenvolvimento Web com Django e Flask<br>
      <div>
      <a href="https://www.linkedin.com/in/brunovhk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://twitter.com/brunovhk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
