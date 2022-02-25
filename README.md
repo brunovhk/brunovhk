@@ -6,10 +6,6 @@
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-My name is Bruno Henrique. <br>
-🎓 Student of Systems Analysis and Development at Anhanguera <br>
-🌱 I’m currently learning Python <br>
-<hr>
 Meu nome é Bruno Henrique. <br>
 🎓 Cursando Analise e Desenvolvimento de Sistemas na Anhanguera <br>
 🌱 Estudando atualmente linguagem Python <br>
