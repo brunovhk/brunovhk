@@ -6,9 +6,9 @@
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Meu nome é Bruno Henrique. <br>
-🎓 Concluinte em Analise e Desenvolvimento de Sistemas na Anhanguera <br>
-🌱 Atualmente estudando linguagem PHP para Desenvolvimento Web com framework Laravel<br>
+Meu nome é Bruno Vieira<br>
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera em 2022 <br>
+🌱 Atualmente estudando Desenvolvimento Web com framework Laravel<br>
      <div>
      <a href="https://www.linkedin.com/in/brunovhk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://twitter.com/brunovhk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
