@@ -8,7 +8,7 @@
 
 Meu nome é Bruno Vieira<br>
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera em 2022 <br>
-🎓 Pós-Graduação em Engenharia de Software pela Faculdade Anhanguera em 2023<br>
+🎓 Pós-Graduado em Engenharia de Software pela Faculdade Anhanguera em 2023<br>
 🌱 Atualmente estudando Desenvolvimento Web com framework Laravel e React<br>
      <div>
      <a href="https://www.linkedin.com/in/brunovhk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
